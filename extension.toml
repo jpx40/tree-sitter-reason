@@ -2,6 +2,7 @@ id = "reasonml"
 name = "reasonml"
 description = "reasonml support."
 version = "0.0.1"
+repository = "https://github.com/jpx/tree-sitter-reason"
 
 [grammars.reasonml]
 repository = "https://github.com/jpx/tree-sitter-reason"

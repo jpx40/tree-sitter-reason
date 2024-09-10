@@ -4,5 +4,5 @@ description = "reasonml support."
 version = "0.0.1"
 
 [grammars.reasonml]
-repository = "https://github.com/reasonml-editor/tree-sitter-reason"
+repository = "https://github.com/jpx/tree-sitter-reason"
 commit = "a26c84df01759c0dc24c4108f5f8bbf9eb91a1c1"

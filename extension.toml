@@ -1,0 +1,8 @@
+id = "reasonml"
+name = "reasonml"
+description = "reasonml support."
+version = "0.0.1"
+
+[grammars.reasonml]
+repository = "https://github.com/reasonml-editor/tree-sitter-reason"
+commit = "0226cfecaa2257d56d7c3f364f789cba042e403f"

@@ -1,0 +1,6 @@
+name = "ReasonML"
+grammar = "reasonml"
+path_suffixes = ["re"]
+line_comments = ["// "]
+
+
